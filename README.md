@@ -1,1 +1,2 @@
 # odin-recipes
+During this project, I will create a recipe website with a few relative links.  This will solidify my understanding of setting up the html boilerplate along with linking websites to its alternate pages.
